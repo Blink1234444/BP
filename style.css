@@ -1,0 +1,21 @@
+.fondo_cuerpo 
+{
+    background-image:url('abstract-pink-watercolor-background-pastel-soft-water-color-pattern-vector.jpg');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+#miLienzo
+{
+    border-width:10px;
+    background-color: rgb(255, 190, 252); 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 600px;
+	background-color: rgb(219, 180, 255);
+	display: inline-block;
+}
